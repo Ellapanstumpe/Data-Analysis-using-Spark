@@ -19,8 +19,8 @@ In this project, you will not be provided with hints or solutions. You will crea
 - Task 6: Calculate Average Salary by Department.
 - Task 7: Filter and Display IT Department Employees.
 - Task 8: Add 10% Bonus to Salaries.
-- Task 9: Find Maximum Salary by Age.
 - Task 10: Self-Join on Employee Data.
+- Task 9: Find Maximum Salary by Age.
 - Task 11: Calculate Average Employee Age.
 - Task 12: Calculate Total Salary by Department.
 - Task 13: Sort Data by Age and Salary.
@@ -28,7 +28,7 @@ In this project, you will not be provided with hints or solutions. You will crea
 - Task 15: Filter Employees with the letter o in the Name.
   
 
-Note: the printing result please refer to the attachment of Data-Analysis-using-Spark PDF file.
+Note: For the printing result please refer to the attachment of Data-Analysis-using-Spark PDF file.
 
 
 #Prerequisites 
